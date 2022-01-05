@@ -1,7 +1,7 @@
 import logging,threading, re, time
 import uuid
 from elasticsearch import Elasticsearch
-import formater
+import logstash.formater
 
 
 _MIDNIGHT = 24 * 60 * 60
