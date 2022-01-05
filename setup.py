@@ -2,9 +2,9 @@ from setuptools import setup, find_packages
 
 setup(
     name='logstash',
-    version='1.0.1',
+    version='1.0.0',
     packages=find_packages(),
-    install_requires=['elastisearch'],
+    install_requires=['elasticsearch'],
     url='',
     license='',
     author='Guilherme ML',
