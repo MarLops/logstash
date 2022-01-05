@@ -1,0 +1,8 @@
+logstash.egg-info/
+build/
+dist/
+
+venv
+env
+**/*__pycache__
+.vscode
